@@ -41,13 +41,13 @@ parser.add_argument('--pre_trained', type=bool, default=False,
                     help='whether to load pre-trained model(default: False)')
 
 # parser for imgLabel
-parser.add_argument('--label_video_path', type=str, default='test/test.mp4',
+parser.add_argument('--label_video_path', type=str, default='sample002.mp4',
                     help='video path to label')
 parser.add_argument('--csv_path', type=str, default='',
                     help='load csv have labeled')
 
 # parser for predict
-parser.add_argument('--video_path', type=str, default='test/test.mp4',
+parser.add_argument('--video_path', type=str, default='sample002.mp4',
                     help='video path to predict')
-parser.add_argument('--label_path', type=str, default='test/test.csv',
+parser.add_argument('--label_path', type=str, default='test.csv',
                     help='load ground truth csv for predict')
