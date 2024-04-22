@@ -103,7 +103,7 @@ CVXcanon==0.1.2
 cycler 
 cymem==2.0.7
 cysignals==1.11.2
-Cython==0.29.33
+Cython==0.29.37
 cytoolz 
 daal==2021.6.0
 daal4py==2021.6.3
