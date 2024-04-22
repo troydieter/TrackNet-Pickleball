@@ -52,7 +52,7 @@ Boruta==0.3
 boto3==1.26.77
 botocore==1.27.59
 -e git+https://github.com/SohierDane/BigQuery_Helper@8615a7f6c1663e7f2d48aa2b32c2dbcb600a440f#egg=bq_helper
-bqplot==0.12.36
+bqplot==0.12.43
 branca==0.6.0
 brewer2mpl==1.4.1
 brotlipy==0.7.0
