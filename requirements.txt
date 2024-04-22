@@ -59,7 +59,7 @@ brotlipy==0.7.0
 cached-property==1.5.2
 cachetools==4.2.4
 Cartopy 
-catalogue==2.0.8
+catalogue==2.0.10
 catalyst==22.4
 catboost==1.1.1
 category-encoders==2.6.0
