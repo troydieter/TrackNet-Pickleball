@@ -760,7 +760,7 @@ virtualenv==20.17.1
 visions==0.7.5
 vowpalwabbit==9.7.0
 vtk==9.2.6
-Wand==0.6.11
+Wand==0.6.13
 wandb==0.13.10
 wasabi==1.1.1
 watchfiles==0.18.1
