@@ -28,7 +28,7 @@ async-timeout
 asynctest==0.13.0
 atpublic==2.3
 attrs 
-audioread==3.0.0
+audioread==3.0.1
 autocfg==0.0.8
 autopep8==1.6.0
 aws-requests-auth==0.4.3
