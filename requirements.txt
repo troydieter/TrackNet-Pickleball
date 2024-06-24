@@ -37,7 +37,7 @@ backcall
 backoff==1.10.0
 backports.functools-lru-cache 
 backports.zoneinfo==0.2.1
-bayesian-optimization==1.4.2
+bayesian-optimization==1.5.0
 bayespy==0.5.25
 beatrix-jupyterlab 
 beautifulsoup4 
